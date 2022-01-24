@@ -597,6 +597,10 @@ Yang Xiao, Ning Zhang, Wenjing Lou and Thomas Hou. INFOCOM'20
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjacklightChen%2Fblockchain_conference_paper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FjacklightChen%2Fblockchain_conference_paper?ref=badge_shield)
 
 
 This list is released into the public domain.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FjacklightChen%2Fblockchain_conference_paper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FjacklightChen%2Fblockchain_conference_paper?ref=badge_large)
